@@ -1,4 +1,4 @@
-Analysis of an algorithm (best, worst, average)
+Analysis of an algorithm (best, worst, average).
 
 To examine the algorithm employed in the preceding code, we will concentrate on the findTopSpenders function, which is the key algorithmic component. Examining the growth function for the worst-case, best-case, and average cases will be beneficial.
 
