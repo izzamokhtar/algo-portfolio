@@ -4,9 +4,9 @@ CSC3402 DESIGN ANALYSIS AND ALGORITHM
 
 This project are managed by : 
 
-Izza Syahirah Mokhtar
+Izza Syahirah Mokhtar  (213061)
 
-Alya Humaira Ahmad Shukri
+Alya Humaira Ahmad Shukri  (211672)
 
-Noor Wajihah Azmi
+Noor Wajihah Azmi  (212888)
 
