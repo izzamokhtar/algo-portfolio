@@ -21,18 +21,6 @@ The ‘mergeTopSpenders’ function takes two lists of ‘CustomerSpending’ ob
 5) It sorts the merged spenders based on their total spending using the ‘sort’ method and a custom comparator
 6) Finally, it returns the top 10 spenders from the sorted spenders list (or fewer if there are less than 10 spenders)
 
-Manual Calculation of Divide and Conquer 
-
-Divide: Divide the dataset into two halves.
-
-
-Conquer : Then, continue to divide the dataset into smaller subproblems to ease in the conquer process of 
-finding the top spender.
-
-Combine: Compare Left and Right Side
-
-Final top spender is : Transaction(15, 900) 
-
 B. Dynamic Programming Algorithm
 Pseudocode:
 
