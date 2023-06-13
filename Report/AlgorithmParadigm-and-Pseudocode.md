@@ -25,6 +25,7 @@ Manual Calculation of Divide and Conquer
 
 Divide: Divide the dataset into two halves.
 
+
 Conquer : Then, continue to divide the dataset into smaller subproblems to ease in the conquer process of 
 finding the top spender.
 
