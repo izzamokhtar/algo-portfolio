@@ -1,4 +1,5 @@
 The divide-and-conquer strategy and dynamic programming can both be used to solve the challenge of identifying the top spenders in a dataset. Let us contrast the two methods: 
+
 Divide and Conquer: As seen in the code, the divide and conquer strategy entails iteratively dividing the dataset into smaller halves, identifying the top spenders in each half, and then merging and sorting the findings. This method offers the following features:
  
 Pros:
@@ -26,6 +27,7 @@ Cons:
 -In comparison to the divide and conquer approach, the code may be more complex and difficult to understand.
 
 Given the nature of the problem and the available dataset, the divide and conquer technique appears to be more appropriate. It separates the dataset naturally, allowing for parallel processing or optimisation of subproblems. Furthermore, the problem lacks overlapping subproblems, which is a crucial feature that dynamic programming often employs.
+
 It is crucial to highlight, however, that the algorithmic technique used is determined by a number of criteria, including the characteristics of the dataset, the available computational resources, and the specific requirements and restrictions of the problem. Dynamic programming may be advantageous in particular situations, such as when there are overlapping subproblems or special performance constraints that favor memoization.
 Finally, the best approach can be determined through experimentation, performance analysis, and consideration of the specific constraints and goals of the problem at hand.
 
